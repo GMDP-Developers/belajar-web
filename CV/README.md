@@ -5,3 +5,4 @@
 #### 1. Ubah foto
 #### 2. Ubah nama dan lain lain sesuai identitas pribadi
 #### 3. Ubah semua warna merah menjadi warna elegant
+#### 4. Buatlah dengan tampilan menarik
